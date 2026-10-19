@@ -1,0 +1,28 @@
+name,block,floor,room,description,image
+Computer Lab,C Block,Ground Floor,C-101,Computer laboratory for B.Tech students,computer_lab.jpg
+CSE Classroom,C Block,1st Floor,C-105,B.Tech CSE classroom,cse_classroom.jpg
+Library,A Block,Ground Floor,A-102,Central college library,library.jpg
+Canteen,Central Lawn,,,Main canteen near the central lawn next to Block A,canteen.jpg
+AIML Department Office,B Block,2nd Floor,B-204,Office of the AI and ML Department,
+Accounts Office,A Block,,A-105,Fee payments and fee issues,
+Placement Cell,A Block,,A-110,Training and Placement Cell,
+Examination Cell,A Block,,A-120,Exam related work and queries,
+IT Cell,C Block,,C-001,Wifi and portal help desk,
+Main Gate,Main Gate,,,ATM and bank branch and security office with lost and found,
+Stationery Shop,Near Library,,,Stationery and xerox shop open 9:00 AM to 5:30 PM,
+A Block,A Block,,,"Academic block. The Library, Accounts Office, Placement Cell and Examination Cell are here.",
+B Block,B Block,,,Academic block. The AIML Department Office (B-204) is on the 2nd floor.,
+C Block,C Block,,,"Academic block. The Computer Lab, CSE Classroom and IT Cell are here.",
+E Block,E Block,,,"Block at the eastern side of the campus, past the small garden.",
+D Block Girls Hostel,D Block,,,"Girls hostel on the upper campus road, east of the Girls Hostel Garden.",
+Girls Hostel Garden,Girls Hostel Area,,,"Garden beside C Block, on the way to the D Block Girls Hostel.",
+Medical Room,Upper Campus Road,,,Medical room east of the D Block Girls Hostel.,
+Central Garden,Central Garden,,,Large central garden of the campus.,
+Small Garden,Near A Block,,,Narrow garden directly beside A Block.,
+Cafeteria,Lower Road,,,"Cafeteria on the lower road, just before B Block.",
+Store Room,Eastern Side,,,Store room at the far eastern side of the campus.,
+Football Ground,Sports Area,,,Football ground north-west of J1 Junction.,
+Swimming Pool,Sports Area,,,Swimming pool at the south-west corner of the Football Ground area.,
+SAJSA,North of Main Road,,,"Building west of J1 Junction, on the north side of the main road.",
+J1 Junction,Main Gate Road,,,Main road junction. Used as the reference point for most walking routes.,
+Lower Junction,Main Gate Road,,,"Road intersection south of J1 Junction, on the lower road.",

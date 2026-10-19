@@ -1,0 +1,49 @@
+place_a,place_b,how_to_walk,minutes
+Library,Stationery Shop,SAMPLE - shop is next to the library,1
+Library,Canteen,SAMPLE - walk across the central lawn,3
+Library,Accounts Office,SAMPLE - go through the A Block corridor,2
+Accounts Office,Placement Cell,SAMPLE - walk along the A Block corridor,1
+Placement Cell,Examination Cell,SAMPLE - walk along the A Block corridor,1
+Canteen,Main Gate,SAMPLE - follow the main walkway,4
+Canteen,Computer Lab,SAMPLE - walk towards C Block,3
+Computer Lab,CSE Classroom,SAMPLE - take the stairs to the 1st floor,1
+Computer Lab,IT Cell,SAMPLE - walk along the C Block corridor,1
+Canteen,AIML Department Office,SAMPLE - go to B Block and take the stairs,4
+J1 Junction,SAJSA,Walk west along the main horizontal road; SAJSA is on the north side.,2
+J1 Junction,Football Ground,"Walk north along Main Gate Road, then turn west toward the ground.",3
+Football Ground,Swimming Pool,Walk to the southwest corner of the Football Ground area.,1
+J1 Junction,C Block,"Walk north from J1, then enter the area east of Main Gate Road.",2
+C Block,Girls Hostel Garden,Walk east from C Block; the garden is immediately beside it.,1
+Girls Hostel Garden,D Block Girls Hostel,Walk east across the garden-side area to D Block Girls Hostel.,2
+D Block Girls Hostel,Medical Room,Continue east along the upper campus road.,2
+J1 Junction,Central Garden,Walk south-east from J1 toward the large central garden.,2
+Central Garden,A Block,Walk east along the garden's southern/central road edge to A Block.,2
+A Block,Small Garden,Walk east; the narrow garden is directly beside A Block.,1
+Small Garden,E Block,Continue east past the narrow garden to E Block.,1
+E Block,Store Room,Continue east to the Store Room at the far eastern side.,1
+J1 Junction,Lower Junction,Walk south along Main Gate Road to the lower road intersection.,4
+Lower Junction,Cafeteria,Walk east along the lower road; the Cafeteria is just ahead.,1
+Cafeteria,B Block,Walk east from the Cafeteria to B Block.,1
+J1 Junction,A Block,"Walk east along the central horizontal road, then enter A Block.",3
+J1 Junction,Girls Hostel Garden,Walk north from J1 and continue east along the upper road.,4
+Lower Junction,Central Garden,Walk north-east from the lower junction toward the large garden.,2
+Central Garden,Lower Junction,Walk south-west from the garden toward the lower road junction.,2
+A Block,Central Garden,Walk west from A Block to the large central garden.,2
+C Block,J1 Junction,Walk south from C Block toward the J1 intersection.,2
+B Block,Lower Junction,Walk west from B Block along the lower road to the junction.,2
+Library,A Block,"Inside A Block, ground floor (room A-102).",1
+Accounts Office,A Block,Inside A Block (room A-105).,1
+Placement Cell,A Block,Inside A Block (room A-110).,1
+Examination Cell,A Block,Inside A Block (room A-120).,1
+Computer Lab,C Block,"Inside C Block, ground floor (room C-101).",1
+CSE Classroom,C Block,"Inside C Block, 1st floor (room C-105).",1
+IT Cell,C Block,Inside C Block (room C-001).,1
+AIML Department Office,B Block,"Inside B Block, 2nd floor (room B-204).",1
+A Block,Library,"Go inside to the Library: A Block, ground floor (room A-102).",1
+A Block,Accounts Office,Go inside to the Accounts Office: A Block (room A-105).,1
+A Block,Placement Cell,Go inside to the Placement Cell: A Block (room A-110).,1
+A Block,Examination Cell,Go inside to the Examination Cell: A Block (room A-120).,1
+C Block,Computer Lab,"Go inside to the Computer Lab: C Block, ground floor (room C-101).",1
+C Block,CSE Classroom,"Go inside to the CSE Classroom: C Block, 1st floor (room C-105).",1
+C Block,IT Cell,Go inside to the IT Cell: C Block (room C-001).,1
+B Block,AIML Department Office,"Go inside to the AIML Department Office: B Block, 2nd floor (room B-204).",1
