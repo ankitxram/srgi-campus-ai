@@ -50,4 +50,4 @@ Saving any CSV updates the app automatically (no restart needed).
 * **A new FAQ:** add a row to `campus_faq.csv`. Put the words students might type in the `keywords` column.
 * **Events from the form:** submitted events go to `data/event_requests.csv`. Copy approved rows into `events.csv`.
   Set `AUTO_PUBLISH_EVENTS = True` in `app.py` to publish them instantly.
-hello mai name is abhijeet 
+hello mai name is abhijeet  singh
